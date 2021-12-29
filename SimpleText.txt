@@ -1,1 +1,2 @@
 First text to test commit options
+Second text
