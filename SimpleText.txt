@@ -1,15 +1,1 @@
-First text to test commit options
-Second text
-changes from main
-changes after rebase
-changes from feature_branch_01
-changes after rebasing feature_branch_01
-changes from feature_branch_02
-changes from main
-further commit
-further commit
-further commit
-further commit
-further commit
-further commit
-further commit
+Main Commit 1
