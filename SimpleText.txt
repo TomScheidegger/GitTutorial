@@ -2,3 +2,4 @@ First text to test commit options
 Second text
 changes from main
 changes after rebase
+changes from feature_branch_01
